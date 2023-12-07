@@ -17,15 +17,6 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Oscar": {
-      "commandName": "Project",
-      "dotnetRunMessages": true,
-      "launchBrowser": true,
-      "applicationUrl": "https://localhost:7058;http://localhost:5044",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Oscar"
-      }
-    },
     "https": {
       "commandName": "Project",
       "dotnetRunMessages": true,
